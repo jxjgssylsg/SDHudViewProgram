@@ -33,8 +33,4 @@ newHud.contentPositionStyle=EnumSDHudViewPositionStyleBottom;
 //... ...
 //... ...
 ```
-##完全使用代码布局
-
-##Bug-mail address，join us address  *[quxingyi@outlook.com](quxingyi@outlook.com)*
-* 一朝做鸟程序员，十年相伴是飞机。没有八哥猛如虎，谁喂东西谁是主。
 # SDHudViewProgram
